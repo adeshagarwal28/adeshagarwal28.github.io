@@ -13,10 +13,8 @@
     </style>
   </head>
   <body>
-
-    <div>
+ <div>
       <h1 >I love you Hershey</h1>
-      <!--<embed src="Adesh_Agarwal_CV.pdf" width="800px" height="1100px"  />-->
-    </div>
+        </div>
     </body>
 </html>

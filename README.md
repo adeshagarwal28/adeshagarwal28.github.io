@@ -7,7 +7,7 @@
   </head>
   <body>
     <div>
-      <embed src="Adesh_Agarwal_CV.pdf" width="800px" height="1100px"  />
+      <img src="Adesh_Agarwal_CV.jpg" alt="">
     </div>
     </body>
 </html>

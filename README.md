@@ -1,2 +1,13 @@
-Welcome to Adesh's Website
-<h1> Hiii guys</h1>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Resume</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div>
+      <embed src="Adesh_Agarwal_CV.pdf" width="800px" height="1100px"  />
+    </div>
+    </body>
+</html>

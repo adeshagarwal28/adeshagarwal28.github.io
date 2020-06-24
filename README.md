@@ -7,7 +7,7 @@
   </head>
   <body>
     <div>
-      <img src="Adesh_Agarwal_CV.jpg" alt="">
+      <img src="Adesh_Agarwal_CV.jpg" alt="" width="650px">
     </div>
     </body>
 </html>
